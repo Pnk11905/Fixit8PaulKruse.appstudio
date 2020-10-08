@@ -22,7 +22,7 @@ btnSubmit.onclick=function(){
 //Yes it does matter, the variable is a global variable and is used for other functions later on not just the btnSubmit.onclick=function()
 
 
-
+// change forms on button click
 
 welcomeBtn.onclick=function(){
   ChangeForm(welcome)
